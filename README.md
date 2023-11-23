@@ -1,10 +1,6 @@
 # jest-test
 
 #Estrutura do Projeto
-*verificar_primo.js: Módulo contendo uma função para verificar se um número é primo.
-*verificar_primo.test.js: Arquivo de testes para a função de verificar primo.
-*calcular_mdc.js: Módulo contendo uma função para calcular o Máximo Divisor Comum (MDC) de dois números.
-*calcular_mdc.test.js: Arquivo de testes para a função de calcular MDC.
 
 #Primos e MDC em JavaScript
 Este repositório contém dois programas simples em JavaScript: um para verificar se um número é primo e outro para calcular o Máximo Divisor Comum (MDC) de dois números.
